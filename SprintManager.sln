@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SprintManager.Forms", "SprintManager.Forms\SprintManager.Forms.csproj", "{804E2FF4-DE6F-4BC5-9EE1-6D6B533500C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SprintManager.Business", "SprintManager.Business\SprintManager.Business.csproj", "{D064EC5A-2D16-45BB-9482-F550D50FE2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SprintManager.Repository", "SprintManager.Repository\SprintManager.Repository.csproj", "{10AD8B90-7B32-4A35-8FA4-DFF77A25F0F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{804E2FF4-DE6F-4BC5-9EE1-6D6B533500C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804E2FF4-DE6F-4BC5-9EE1-6D6B533500C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804E2FF4-DE6F-4BC5-9EE1-6D6B533500C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D064EC5A-2D16-45BB-9482-F550D50FE2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D064EC5A-2D16-45BB-9482-F550D50FE2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D064EC5A-2D16-45BB-9482-F550D50FE2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D064EC5A-2D16-45BB-9482-F550D50FE2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AD8B90-7B32-4A35-8FA4-DFF77A25F0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AD8B90-7B32-4A35-8FA4-DFF77A25F0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AD8B90-7B32-4A35-8FA4-DFF77A25F0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AD8B90-7B32-4A35-8FA4-DFF77A25F0F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

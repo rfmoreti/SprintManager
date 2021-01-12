@@ -10,12 +10,13 @@ using System.Windows.Forms;
 
 namespace SprintManager.Forms
 {
-    public partial class Form1 : Form
+    public partial class Home_Form : Form
     {
-        public Form1()
+        public Home_Form()
         {
             InitializeComponent();
         }
 
+        
     }
 }
