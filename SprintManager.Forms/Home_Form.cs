@@ -17,6 +17,10 @@ namespace SprintManager.Forms
             InitializeComponent();
         }
 
-        
+        private void CreateSprint_btn_Click(object sender, EventArgs e)
+        {
+            CreateSprint_Form formCreate = new CreateSprint_Form();
+            formCreate.Show();
+        }
     }
 }

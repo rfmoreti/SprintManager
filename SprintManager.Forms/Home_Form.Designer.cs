@@ -40,6 +40,7 @@
             this.CreateSprint_btn.TabIndex = 0;
             this.CreateSprint_btn.Text = "Create Sprint";
             this.CreateSprint_btn.UseVisualStyleBackColor = true;
+            this.CreateSprint_btn.Click += new System.EventHandler(this.CreateSprint_btn_Click);
             // 
             // OpenSprint_btn
             // 
